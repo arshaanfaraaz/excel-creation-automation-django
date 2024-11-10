@@ -28,7 +28,7 @@ This project demonstrates automated Excel file generation using Django and Rabbi
     ```bash
     pip install django pika pandas openpyxl faker
 
-3. Start Django and run consumer.py:
+3. Start Django and run `consumer.py`:
     ```bash
     python manage.py runserver
     python consumer.py
